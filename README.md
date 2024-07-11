@@ -1,6 +1,8 @@
-# Self-Guided Generation of Minority Samples Using Diffusion Models
+# Self-Guided Generation of Minority Samples Using Diffusion Models (ECCV 2024)
 
-This repository contains the official code for the paper "Self-Guided Generation of Minority Samples Using Diffusion Models".
+Soobin Um and [Jong Chul Ye](https://bispl.weebly.com/professor.html)
+
+This repository contains the official code for the paper "Self-Guided Generation of Minority Samples Using Diffusion Models" (ECCV 2024).
 
 ## 1. Environment setup
 We provide a conda environment file to install all the dependencies. If you don't have conda installed, you can download it from [here](https://docs.conda.io/en/latest/miniconda.html).
