@@ -9,7 +9,7 @@ We provide a conda environment file to install all the dependencies. If you don'
 
 ### 1) Clone the repository
 ```
-git clone https://github.com/anonymous-8641/sg-minority
+git clone https://github.com/soobin-um/sg-minority
 cd sg-minority
 ```
 
