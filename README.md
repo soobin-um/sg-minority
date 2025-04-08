@@ -1,6 +1,6 @@
 # Self-Guided Generation of Minority Samples Using Diffusion Models (ECCV 2024)
 
-Soobin Um and [Jong Chul Ye](https://bispl.weebly.com/professor.html)
+[Soobin Um](https://soobin-um.github.io/) and [Jong Chul Ye](https://bispl.weebly.com/professor.html)
 
 This repository contains the official code for the paper "Self-Guided Generation of Minority Samples Using Diffusion Models" (ECCV 2024).
 
