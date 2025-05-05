@@ -83,10 +83,12 @@ python super_res_sample.py $MODEL_FLAGS $SAMPLE_FLAGS --model_path [your_model_p
 ## Citation
 If you find this repository useful, please cite our paper:
 ```
-@article{um2024self,
-  title={Self-Guided Generation of Minority Samples Using Diffusion Models},
+@inproceedings{um2024self,
+  title={Self-guided generation of minority samples using diffusion models},
   author={Um, Soobin and Ye, Jong Chul},
-  journal={arXiv preprint arXiv:2407.11555},
-  year={2024}
+  booktitle={European Conference on Computer Vision},
+  pages={414--430},
+  year={2024},
+  organization={Springer}
 }
 ```
